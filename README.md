@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Reza96-numpy
-- 👀 I’m interested in python
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Reza-Keymasi
+- 👀 I’m interested in Js
+- 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
